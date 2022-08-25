@@ -48,7 +48,7 @@ DataFrame with Only 10-12th graders from Thomas High School:
 
 ### Replacing Thomas High School's Performance
 
-In comparison to other the schools, before replacing the ninth-grader's grades, Thomas High School had the 2nd highest overall passing rate. After moving the grades, Thomas High School dropped to become the 8th highest ranked school out of 15 since null grades were being calculated as 0s while the total student count remained the same. ADD HERE The district summary was not greatly impacted by replacing Thomas High School's ninth-graders' grades.
+In comparison to other the schools, before replacing the ninth-grader's grades, Thomas High School had the 2nd highest overall passing rate. After moving the grades, Thomas High School dropped to become the 8th highest ranked school out of 15 since null grades were being calculated as 0s while the total student count remained the same. The school summary drastically changed when the null grades were entered, but when the ninth-graders were removed, the data did not vary much from the original data that included the fake grades. The district summary was not greatly impacted by replacing Thomas High School's ninth-graders' grades.
 
 ### Replacing the Ninth-Grade Scores
 
@@ -98,5 +98,4 @@ DataFrame with Only 10-12th graders from Thomas High School:
 
 The incorrect grades put into the system changed the dataset more when null values were included in totals. Once, Thomas High School averages did not include the null values in the totals, the data did not seem to change much. Overall, removing the ninth-graders' grades did not greatly impact the overall findings when Thomas High Schools averages were only for grades 10-12.
 
-Some significant findings were that when replacing the Thomas High School ninth-graders' grades, the passing rates for math, reading and overall decreased when looking at the school level view. Additionally, the analysis shows that removing the grades was not extremely impactful at district level view as all of the metrics were decreased by less than a percent. Both the total number of students and the total student budget remained the same when removing the grades as the python code only removed the grades from the ninth-graders at Thomas High School. Another finding was that ....
 
