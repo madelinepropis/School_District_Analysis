@@ -98,4 +98,6 @@ DataFrame with Only 10-12th graders from Thomas High School:
 
 The incorrect grades put into the system changed the dataset more when null values were included in totals. Once, Thomas High School averages did not include the null values in the totals, the data did not seem to change much. Overall, removing the ninth-graders' grades did not greatly impact the overall findings when Thomas High Schools averages were only for grades 10-12.
 
+One significant findings was that when replacing the Thomas High School ninth-graders' math grade, the 9th grade values appear as "nan" on  DataFrame containing average scores for each grade in each school. The same results occurs for reading scores. Additionally, changing the grades did not affect any of the district level results such as scores by school spending, scores by school size or scores by school type. Lastly, as previously discussed, the overall passing percentage only reduced by less than a percent when ninth-graders' scores were removed.
+
 
