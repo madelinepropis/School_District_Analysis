@@ -12,7 +12,7 @@ In this challenge, it was found that some ninth-graders at Thomas High School ha
 
 In the original District Summary Data Frame, the Thomas High School's fake ninth-graders' scores are included. They are excluded in the new Data Frame.
 
-*Total Students: Remained the same
+* Total Students: Remained the same
 *Total Student Budget: Remained the same
 *Average Math Score: Decreased minimally
 *Average Reading Score: Remained the same
