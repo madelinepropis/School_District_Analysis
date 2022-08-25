@@ -12,13 +12,13 @@ In this challenge, it was found that some ninth-graders at Thomas High School ha
 
 In the original District Summary Data Frame, the Thomas High School's fake ninth-graders' scores are included. They are excluded in the new Data Frame.
 
--Total Students: 
--Total Student Budget: 
--Average Math Score:
--Average Reading Score: 
--% Passing Math:
--% Passing Reading:
--% Overall Passing: 
+-Total Students: Remained the same n/
+-Total Student Budget: Remained the same n/
+-Average Math Score: Decreased minimally n/
+-Average Reading Score: Remained the same n/
+-% Passing Math: Decreased minimally n/
+-% Passing Reading: Decreased minimally n/
+-% Overall Passing: Decreased minimally n/
 
 Original DataFrame Including Thomas High School's Ninth-Graders' Grades:
 ![Original_DistrictSummary](https://user-images.githubusercontent.com/109561408/186549966-47d961f5-a19b-497a-bb24-3c05d221f0c3.png)
@@ -30,14 +30,12 @@ DataFrame Excluding Thomas High School's Ninth-Graders' Grades:
 
 In the original School Summary Data Frame, the Thomas High School's ninth-graders' scores are included. They are excluded in the new Data Frame.
 
--Total Students: 
--Total Student Budget: 
--Per Student Budget: 
--Average Math Score:
--Average Reading Score: 
--% Passing Math:
--% Passing Reading:
--% Overall Passing: 
+-Per Student Budget: Remained the same n/
+-Average Math Score: Decreased minimally n/
+-Average Reading Score: Increased minimally n/
+-% Passing Math: Increased minimally n/
+-% Passing Reading: Decreased minimally n/
+-% Overall Passing: Decreased minimally n/ 
 
 Original DataFrame Containing Thomas High School's Ninth-Graders' Grades:
 ![Original_SchoolDataCompleteDf](https://user-images.githubusercontent.com/109561408/186550029-51794707-cb56-4a56-9ee6-399c3a66fd94.png)
